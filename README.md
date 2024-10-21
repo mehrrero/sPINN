@@ -30,8 +30,7 @@ Please, if you use any of our work, consider citing the paper and this repositor
     month = "9",
     year = "2024"
 }
-```
-```text
+
 @misc{github_sPINN,
   author = {Herrero-Valea, M.},
   title = {sPINN: Deep Learning solutions to singular problems},
